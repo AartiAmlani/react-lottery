@@ -1,0 +1,83 @@
+.button {
+  font-size: 35px;
+  margin: 10px;
+  background-color: rgb(126, 114, 236);
+  border: 5px double rgb(226, 11, 11);
+}
+.button:active {
+  font-size: 35px;
+  margin: 10px;
+  background-color: rgb(226, 114, 236);
+  border: 5px dotted rgb(11, 226, 47);
+
+}
+/* //header */
+.Header {
+  background-color: rgb(21, 209, 37);
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  display: flex;
+}
+/* //MoneyInput */
+.MoneyInput {
+  background-color: rgb(114, 202, 236);
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.MoneyInput p {
+  font-size: 30px;
+  background-color: rgb(142, 236, 114);
+
+}
+.MoneyInput button{
+  font-size: 35px;
+  margin: 10px;
+  background-color: rgb(126, 114, 236);
+  border: 5px double rgb(226, 11, 11);
+}
+/* //NumberSection */
+.NumberSection {
+  background-color: rgb(114, 202, 236);
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+  flex-direction: column;
+}
+.NumberSection p {
+  font-size: 30px;
+  background-color: rgb(142, 236, 114);
+
+}
+.NumberSection button {
+  font-size: 35px;
+  margin: 10px;
+  background-color: rgb(126, 114, 236);
+  border: 5px double rgb(226, 11, 11);
+
+} 
+/* //Output */
+.Output {
+  background-color: rgb(114, 202, 236);
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+  
+}
+
+/* Image of dice */
+.lottery {
+  width: 1000px;
+  height: 300px;
+  display: block;
+  margin: auto;
+}
+.Output p {
+  font-size: 30px;
+  background-color: rgb(142, 236, 114);
+
+}
+
+
+
+
+
+
