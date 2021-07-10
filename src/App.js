@@ -1,3 +1,4 @@
+//GITHUB HOSTING URL==> https://aartiamlani.github.io/react-lottery/
 import React, { useState } from 'react';
 import "./assests/css/App.css";
 import lottery from "./assests/img/lottery.jpg"
